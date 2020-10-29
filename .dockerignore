@@ -1,0 +1,9 @@
+.git
+tags
+.cache
+build/
+.vscode/
+.woloxci/
+.gitignore
+node_modules/
+.elasticbeanstalk/
